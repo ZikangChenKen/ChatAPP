@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_gXTC0JC0Ee6NN6OCOYPpJA">
+  <modelElement href="microMVC.uml#_gm8oYZC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hrkHEJC0Ee6NN6OCOYPpJA" targetItem="_hrkuIJC0Ee6NN6OCOYPpJA" sourceItem="_hrgcsJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hrq0wJC0Ee6NN6OCOYPpJA" sourceAnchor="0.0,154.0" targetAnchor="253.0,45.0" target="_hrkuIJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gro7IpC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hrywk5C0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grpiMJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hrywkJC0Ee6NN6OCOYPpJA" text="">
+      <visualProperties xmi:id="_iHi4cZC0Ee6NN6OCOYPpJA" position="5.0,-8.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hrywkZC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_gro7I5C0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHi4cJC0Ee6NN6OCOYPpJA" position="-20.0,3.5"/>
+      <visibility xmi:id="_hr1z4ZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr1z4JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hrywkpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="v2mAdpt" navigable="true">
+      <modelElement href="microMVC.uml#_gra4spC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHjfgJC0Ee6NN6OCOYPpJA" position="5.5,-48.499999999999886"/>
+      <visibility xmi:id="_hr1z45C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr1z4pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hryJgJC0Ee6NN6OCOYPpJA" targetItem="_hr7TcJC0Ee6NN6OCOYPpJA" sourceItem="_hrvtQJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hrzXoJC0Ee6NN6OCOYPpJA" targetItem="_hr7TuZC0Ee6NN6OCOYPpJA" sourceItem="_hrywlJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hrz-sZC0Ee6NN6OCOYPpJA" targetItem="_hr7TvJC0Ee6NN6OCOYPpJA" sourceItem="_hrz-sJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hrz-s5C0Ee6NN6OCOYPpJA" targetItem="_hr7Tv5C0Ee6NN6OCOYPpJA" sourceItem="_hrz-spC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hr0lwZC0Ee6NN6OCOYPpJA" targetItem="_hr7TxZC0Ee6NN6OCOYPpJA" sourceItem="_hr0lwJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hr0lw5C0Ee6NN6OCOYPpJA" targetItem="_hr7TzpC0Ee6NN6OCOYPpJA" sourceItem="_hr0lwpC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr3CAJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grpiMZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr3CAZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grqJQJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr3CApC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr3CA5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grpiMpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3CBJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr3CBZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr3CBpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="displayPanel" navigable="true">
+      <modelElement href="microMVC.uml#_grbfwJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3CB5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr3CCJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr3pEJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grqJQZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr3pEZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grqJQ5C0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr3pEpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr3pE5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grqJQpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pFJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr3pFZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr3pFpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="ControlPanel" navigable="true">
+      <modelElement href="microMVC.uml#_grbfw5C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pF5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr3pGJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr3pGZC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grqJRJC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr3pGpC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grqwUJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr3pG5C0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr3pHJC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grqJRZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pHZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr3pHpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr3pH5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="MessagePanel" navigable="true">
+      <modelElement href="microMVC.uml#_grcG0JC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pIJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr3pIZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr3pIpC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grqwUZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr3pI5C0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grrXYJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr3pJJC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr3pJZC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grqwUpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pJpC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr3pJ5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr3pKJC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="ImagePanel" navigable="true">
+      <modelElement href="microMVC.uml#_grcG05C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr3pKZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr3pKpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr4QIJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grrXYZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr4QIZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grrXY5C0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr4QIpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr4QI5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grrXYpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr4QJJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr4QJZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr4QJpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="MessageTextField" navigable="true">
+      <modelElement href="microMVC.uml#_grct4ZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr4QJ5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr4QKJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr4QKZC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grrXZJC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr4QKpC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grr-cJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr4QK5C0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr4QLJC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grrXZZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr4QLZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr4QLpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr4QL5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="MessageBttn" navigable="true">
+      <modelElement href="microMVC.uml#_grct5JC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr4QMJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr4QMZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr43MJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grr-cZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr43MZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grslgJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr43MpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr43M5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grr-cpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr43NJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr43NZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr43NpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="comboBox" navigable="true">
+      <modelElement href="microMVC.uml#_grdU8ZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr43N5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr43OJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr5eQJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grslgZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr5eQZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grtMkJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr5eQpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr5eQ5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grslgpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr5eRJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr5eRZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr5eRpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="btnSendImage" navigable="true">
+      <modelElement href="microMVC.uml#_grd8AJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr5eR5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr5eSJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr5eSZC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grtMkZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr5eSpC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grtzoJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr5eS5C0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr5eTJC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grtMkpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr5eTZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr5eTpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr5eT5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="btnSendRoom" navigable="true">
+      <modelElement href="microMVC.uml#_grd8A5C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr5eUJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr5eUZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr6FUJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grtzoZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr6FUZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grtzo5C0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr6FUpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr6FU5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grtzopC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6FVJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr6FVZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr6FVpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="image" navigable="true">
+      <modelElement href="microMVC.uml#_grd8BpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6FV5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr6FWJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr6FWZC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grtzpJC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr6FWpC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_gruasJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr6FW5C0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr6FXJC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grtzpZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6FXZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr6FXpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr6FX5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="LeaveRoomBttn" navigable="true">
+      <modelElement href="microMVC.uml#_grejEZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6FYJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr6FYZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hr6sYJC0Ee6NN6OCOYPpJA" source="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gruasZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hr6sYZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grvBwJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hr6sYpC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_hr6sY5C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_gruaspC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6sZJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr6sZZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hr6sZpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="taDisplay" navigable="true">
+      <modelElement href="microMVC.uml#_grejFJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr6sZ5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr6saJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_hr6saZC0Ee6NN6OCOYPpJA" subClass="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grWAMZC0Ee6NN6OCOYPpJA"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hsNnUJC0Ee6NN6OCOYPpJA" sourceAnchor="231.0,118.0" targetAnchor="203.0,0.0" target="_hr7TcJC0Ee6NN6OCOYPpJA" source="_hsxoAJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grntAZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hsq6U5C0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_groUEJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hsq6UJC0Ee6NN6OCOYPpJA" text="">
+      <visualProperties xmi:id="_iHkGkJC0Ee6NN6OCOYPpJA" position="-21.0,-6.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hsq6UZC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grntApC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHjfgZC0Ee6NN6OCOYPpJA" position="5.5,5.0"/>
+      <visibility xmi:id="_hswZ4ZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hswZ4JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hsq6UpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="gameMicroView" navigable="true">
+      <modelElement href="microMVC.uml#_grYccZC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHkGkZC0Ee6NN6OCOYPpJA" position="-102.5,-50.0"/>
+      <visibility xmi:id="_hswZ45C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hswZ4pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hsqTQJC0Ee6NN6OCOYPpJA" targetItem="_hsxoAJC0Ee6NN6OCOYPpJA" sourceItem="_hsfUIJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hsvLwJC0Ee6NN6OCOYPpJA" targetItem="_hsxoFpC0Ee6NN6OCOYPpJA" sourceItem="_hsq6VJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hsxA8JC0Ee6NN6OCOYPpJA" sourceAnchor="0.0,59.0" targetAnchor="424.0,56.0" target="_h3lw4JC0Ee6NN6OCOYPpJA" source="_hsxoAJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grnF8JC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_hsxA8ZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_grntAJC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hsxA8pC0Ee6NN6OCOYPpJA" text="">
+      <visualProperties xmi:id="_iHktoJC0Ee6NN6OCOYPpJA" position="36.5,-8.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hsxA85C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_grnF8ZC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHkGkpC0Ee6NN6OCOYPpJA" position="-20.0,3.5"/>
+      <visibility xmi:id="_hsxA9JC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hsxA9ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hsxA9pC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="gameMicroModel" navigable="true">
+      <modelElement href="microMVC.uml#_grX1YpC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHktoZC0Ee6NN6OCOYPpJA" position="5.0,-48.500000000000114"/>
+      <visibility xmi:id="_hsxA95C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hsxA-JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_htOT8JC0Ee6NN6OCOYPpJA" targetItem="_htXd4JC0Ee6NN6OCOYPpJA" sourceItem="_htA4kJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_htWPwJC0Ee6NN6OCOYPpJA" targetItem="_htXd9pC0Ee6NN6OCOYPpJA" sourceItem="_htVosJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_htW20JC0Ee6NN6OCOYPpJA" source="_htXd4JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_groUEZC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_htW20ZC0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_groUE5C0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_htW20pC0Ee6NN6OCOYPpJA" text=""/>
+    <sourceRole xmi:id="_htW205C0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_groUEpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_htW21JC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_htW21ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_htW21pC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="rand" navigable="true">
+      <modelElement href="microMVC.uml#_grZDgpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_htW215C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_htW22JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ht1X8JC0Ee6NN6OCOYPpJA" targetItem="_ht_I8JC0Ee6NN6OCOYPpJA" sourceItem="_htn8kJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hucb8JC0Ee6NN6OCOYPpJA" targetItem="_hum0AJC0Ee6NN6OCOYPpJA" sourceItem="_huOZgJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hvHxYJC0Ee6NN6OCOYPpJA" targetItem="_hvTXkJC0Ee6NN6OCOYPpJA" sourceItem="_hu4g0JC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hv2xMJC0Ee6NN6OCOYPpJA" targetItem="_hwC-cJC0Ee6NN6OCOYPpJA" sourceItem="_hvlEYJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hwlJ8JC0Ee6NN6OCOYPpJA" targetItem="_hwx-QJC0Ee6NN6OCOYPpJA" sourceItem="_hwVSUJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hxX0IJC0Ee6NN6OCOYPpJA" targetItem="_hxl2kJC0Ee6NN6OCOYPpJA" sourceItem="_hxGHUJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hyX5sJC0Ee6NN6OCOYPpJA" targetItem="_hynKQJC0Ee6NN6OCOYPpJA" sourceItem="_hyE-wJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hzMZEJC0Ee6NN6OCOYPpJA" targetItem="_hzabgJC0Ee6NN6OCOYPpJA" sourceItem="_hy6FMJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h0YE0JC0Ee6NN6OCOYPpJA" targetItem="_h0q_wJC0Ee6NN6OCOYPpJA" sourceItem="_hzsvYJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h1TR4JC0Ee6NN6OCOYPpJA" targetItem="_h1kXoJC0Ee6NN6OCOYPpJA" sourceItem="_h096sJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_h1jJgJC0Ee6NN6OCOYPpJA" sourceAnchor="212.0,0.0" targetAnchor="136.0,90.0" target="_h1kXoJC0Ee6NN6OCOYPpJA" source="_h3lw4JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_groUFJC0Ee6NN6OCOYPpJA"/>
+    <stereotypes xmi:id="_h1jwk5C0Ee6NN6OCOYPpJA" name="Reference">
+      <modelElement href="microMVC.uml#_gro7IZC0Ee6NN6OCOYPpJA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_h1jwkJC0Ee6NN6OCOYPpJA" text="">
+      <visualProperties xmi:id="_iHlUsJC0Ee6NN6OCOYPpJA" position="-21.0,-9.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_h1jwkZC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="">
+      <modelElement href="microMVC.uml#_gro7IJC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHktopC0Ee6NN6OCOYPpJA" position="-20.5,-49.5"/>
+      <visibility xmi:id="_h1jwlZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h1jwlJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_h1jwkpC0Ee6NN6OCOYPpJA" aggregationKind="NONE" name="m2vadpt" navigable="true">
+      <modelElement href="microMVC.uml#_graRoZC0Ee6NN6OCOYPpJA"/>
+      <visualProperties xmi:id="_iHlUsZC0Ee6NN6OCOYPpJA" position="8.0,5.0"/>
+      <stereotypes xmi:id="_h1jwmJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_graRopC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_h1jwl5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_h1jwlpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h2lEQJC0Ee6NN6OCOYPpJA" targetItem="_h2mSYJC0Ee6NN6OCOYPpJA" sourceItem="_h1688JC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h3itkJC0Ee6NN6OCOYPpJA" targetItem="_h3lw4JC0Ee6NN6OCOYPpJA" sourceItem="_h29ewJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h3kiwJC0Ee6NN6OCOYPpJA" targetItem="_h3lw65C0Ee6NN6OCOYPpJA" sourceItem="_h3jUoJC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h3kiwpC0Ee6NN6OCOYPpJA" targetItem="_h3lw9JC0Ee6NN6OCOYPpJA" sourceItem="_h3kiwZC0Ee6NN6OCOYPpJA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_h3lJ0ZC0Ee6NN6OCOYPpJA" targetItem="_h3lw-pC0Ee6NN6OCOYPpJA" sourceItem="_h3lJ0JC0Ee6NN6OCOYPpJA"/>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hrgcsJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hrkHEJC0Ee6NN6OCOYPpJA" text="Adapter from micro view to model." item="_hrkuIJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCrZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hrvtQJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hryJgJC0Ee6NN6OCOYPpJA" text="Micro view." item="_hr7TcJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCrpC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hrywlJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hrzXoJC0Ee6NN6OCOYPpJA" text="Initialize the micro view." item="_hr7TuZC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkpsZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hrz-sJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hrz-sZC0Ee6NN6OCOYPpJA" text="Start the micro view." item="_hr7TvJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkpspC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hrz-spC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hrz-s5C0Ee6NN6OCOYPpJA" text="Display message.&#xA;&#x9; * @param msg" item="_hr7Tv5C0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkps5C0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hr0lwJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hr0lwZC0Ee6NN6OCOYPpJA" text="Button to send custom message" item="_hr7TxZC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkpsJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hr0lwpC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hr0lw5C0Ee6NN6OCOYPpJA" text="Add an image to the current view&#xA;&#x9; * @param componentSupplier The image component factory" item="_hr7TzpC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkptJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hsfUIJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hsqTQJC0Ee6NN6OCOYPpJA" text="GameInitCmd class AKA &quot;micro room controller&quot;" item="_hsxoAJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjbkJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hsq6VJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hsvLwJC0Ee6NN6OCOYPpJA" text="Constructor is called by the game server because that's who instantiates the game commands.&#xA;&#x9; * @param gameUUID The UUID identifying the current instance of the game server." item="_hsxoFpC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjbkZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_htA4kJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_htOT8JC0Ee6NN6OCOYPpJA" text="The command for guess." item="_htXd4JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjbkpC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_htVosJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_htWPwJC0Ee6NN6OCOYPpJA" text="Constructor &#xA;&#x9; * @param correct" item="_htXd9pC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjbk5C0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_htn8kJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_ht1X8JC0Ee6NN6OCOYPpJA" text="Command for guess response." item="_ht_I8JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjblJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_huOZgJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hucb8JC0Ee6NN6OCOYPpJA" text="The message for Bomb game." item="_hum0AJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grjblZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hu4g0JC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hvHxYJC0Ee6NN6OCOYPpJA" text="For micro mvc initialization" item="_hvTXkJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCoJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hvlEYJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hv2xMJC0Ee6NN6OCOYPpJA" text="Message for guess action." item="_hwC-cJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCoZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hwVSUJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hwlJ8JC0Ee6NN6OCOYPpJA" text="The message for response of the guess." item="_hwx-QJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCopC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hxGHUJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hxX0IJC0Ee6NN6OCOYPpJA" text="The message for sending the image." item="_hxl2kJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCo5C0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hyE-wJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hyX5sJC0Ee6NN6OCOYPpJA" text="The adapter from micro to mini." item="_hynKQJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCpJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hy6FMJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_hzMZEJC0Ee6NN6OCOYPpJA" text="Adapter from micro controller to model." item="_hzabgJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCpZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hzsvYJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h0YE0JC0Ee6NN6OCOYPpJA" text="Adapter from micro controller to view." item="_h0q_wJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCppC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h096sJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h1TR4JC0Ee6NN6OCOYPpJA" text="Adapter from micro model to view." item="_h1kXoJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCp5C0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h1688JC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h2lEQJC0Ee6NN6OCOYPpJA" text="Command to process the image message" item="_h2mSYJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCqJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h29ewJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h3itkJC0Ee6NN6OCOYPpJA" text="Micro model" item="_h3lw4JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCqZC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h3jUoJC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h3kiwJC0Ee6NN6OCOYPpJA" text="Logger." item="_h3lw65C0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCqpC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h3kiwZC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h3kiwpC0Ee6NN6OCOYPpJA" text="Send text message.&#xA;&#x9; * @param msg" item="_h3lw9JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCq5C0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_h3lJ0JC0Ee6NN6OCOYPpJA" sourceConnectionVisual="_h3lJ0ZC0Ee6NN6OCOYPpJA" text="Send image message.&#xA;&#x9; * @param msg" item="_h3lw-pC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_grkCrJC0Ee6NN6OCOYPpJA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hrkuIJC0Ee6NN6OCOYPpJA" comments="_hrgcsJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hrkHEJC0Ee6NN6OCOYPpJA" name="IMicroView2ModelAdapter" associationsIn="_hrq0wJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnpL8JC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hrkuIZC0Ee6NN6OCOYPpJA" position="270.0,732.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hrkuIpC0Ee6NN6OCOYPpJA" label="+"/>
+    <operations xmi:id="_hrkuI5C0Ee6NN6OCOYPpJA" name="sendGuessMessage">
+      <modelElement href="microMVC.uml#_gnpzAJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hrkuJJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hrkuJZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hrkuJpC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gnpzAZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hrkuJ5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hrkuKJC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hrkuKZC0Ee6NN6OCOYPpJA" name="sendImageMessage">
+      <modelElement href="microMVC.uml#_gnpzApC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hrkuKpC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hrkuK5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hrkuLJC0Ee6NN6OCOYPpJA" name="image">
+        <modelElement href="microMVC.uml#_gnpzA5C0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hrkuLZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hrkuLpC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hr7TcJC0Ee6NN6OCOYPpJA" comments="_hrvtQJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hryJgJC0Ee6NN6OCOYPpJA" name="MicroView" associationsIn="_hsNnUJC0Ee6NN6OCOYPpJA" associationsOut="_hrq0wJC0Ee6NN6OCOYPpJA _hr3CAJC0Ee6NN6OCOYPpJA _hr3pEJC0Ee6NN6OCOYPpJA _hr3pGZC0Ee6NN6OCOYPpJA _hr3pIpC0Ee6NN6OCOYPpJA _hr4QIJC0Ee6NN6OCOYPpJA _hr4QKZC0Ee6NN6OCOYPpJA _hr43MJC0Ee6NN6OCOYPpJA _hr5eQJC0Ee6NN6OCOYPpJA _hr5eSZC0Ee6NN6OCOYPpJA _hr6FUJC0Ee6NN6OCOYPpJA _hr6FWZC0Ee6NN6OCOYPpJA _hr6sYJC0Ee6NN6OCOYPpJA" generalizations="_hr6saZC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnpzBJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hr7TcZC0Ee6NN6OCOYPpJA" position="740.0,623.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hr7TcpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hr7Tc5C0Ee6NN6OCOYPpJA" defaultValue="-6942369287749983162L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="microMVC.uml#_gra4sJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr7TdJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TdZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TdpC0Ee6NN6OCOYPpJA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7Td5C0Ee6NN6OCOYPpJA" name="v2mAdpt">
+      <modelElement href="microMVC.uml#_gra4spC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TeJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gra4s5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TeZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TepC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7Te5C0Ee6NN6OCOYPpJA" name="IMicroView2ModelAdapter">
+        <modelElement href="microMVC.uml#_gnpL8JC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TfJC0Ee6NN6OCOYPpJA" defaultValue="new JPanel()" name="displayPanel">
+      <modelElement href="microMVC.uml#_grbfwJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TfZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grbfwpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TfpC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7Tf5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TgJC0Ee6NN6OCOYPpJA" name="JPanel">
+        <modelElement href="microMVC.uml#_grDsU5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TgZC0Ee6NN6OCOYPpJA" defaultValue="new JPanel()" name="ControlPanel">
+      <modelElement href="microMVC.uml#_grbfw5C0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TgpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grbfxZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7Tg5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7ThJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7ThZC0Ee6NN6OCOYPpJA" name="JPanel">
+        <modelElement href="microMVC.uml#_grDsU5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7ThpC0Ee6NN6OCOYPpJA" defaultValue="new JPanel()" name="MessagePanel">
+      <modelElement href="microMVC.uml#_grcG0JC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7Th5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grcG0pC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TiJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TiZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TipC0Ee6NN6OCOYPpJA" name="JPanel">
+        <modelElement href="microMVC.uml#_grDsU5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7Ti5C0Ee6NN6OCOYPpJA" defaultValue="new JPanel()" name="ImagePanel">
+      <modelElement href="microMVC.uml#_grcG05C0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TjJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grct4JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TjZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TjpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7Tj5C0Ee6NN6OCOYPpJA" name="JPanel">
+        <modelElement href="microMVC.uml#_grDsU5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TkJC0Ee6NN6OCOYPpJA" defaultValue="new JTextField()" name="MessageTextField">
+      <modelElement href="microMVC.uml#_grct4ZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TkZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grct45C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TkpC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7Tk5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TlJC0Ee6NN6OCOYPpJA" name="JTextField">
+        <modelElement href="microMVC.uml#_grETYpC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TlZC0Ee6NN6OCOYPpJA" defaultValue="new JButton(&quot;Guess&quot;)" name="MessageBttn">
+      <modelElement href="microMVC.uml#_grct5JC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TlpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grdU8JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7Tl5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TmJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TmZC0Ee6NN6OCOYPpJA" name="JButton">
+        <modelElement href="microMVC.uml#_grDFQ5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TmpC0Ee6NN6OCOYPpJA" defaultValue="new JComboBox&lt;String>()" name="comboBox">
+      <modelElement href="microMVC.uml#_grdU8ZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7Tm5C0Ee6NN6OCOYPpJA" name="Generics">
+        <modelElement href="microMVC.uml#_grdU8pC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hr7TnJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grdU9JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TnZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TnpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7Tn5C0Ee6NN6OCOYPpJA" name="JComboBox">
+        <modelElement href="microMVC.uml#_grDsUZC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7ToJC0Ee6NN6OCOYPpJA" defaultValue="new JButton(&quot;Send Image&quot;)" name="btnSendImage">
+      <modelElement href="microMVC.uml#_grd8AJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7ToZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grd8ApC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TopC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7To5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TpJC0Ee6NN6OCOYPpJA" name="JButton">
+        <modelElement href="microMVC.uml#_grDFQ5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TpZC0Ee6NN6OCOYPpJA" defaultValue="new JButton(&quot;Send Message to Room&quot;)" name="btnSendRoom">
+      <modelElement href="microMVC.uml#_grd8A5C0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TppC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grd8BZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7Tp5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TqJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TqZC0Ee6NN6OCOYPpJA" name="JButton">
+        <modelElement href="microMVC.uml#_grDFQ5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TqpC0Ee6NN6OCOYPpJA" defaultValue="new JLabel()" name="image">
+      <modelElement href="microMVC.uml#_grd8BpC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7Tq5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grejEJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TrJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TrZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TrpC0Ee6NN6OCOYPpJA" name="JLabel">
+        <modelElement href="microMVC.uml#_gq_a4ZC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7Tr5C0Ee6NN6OCOYPpJA" defaultValue="new JButton(&quot;Leave&quot;)" name="LeaveRoomBttn">
+      <modelElement href="microMVC.uml#_grejEZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TsJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grejE5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TsZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7TspC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7Ts5C0Ee6NN6OCOYPpJA" name="JButton">
+        <modelElement href="microMVC.uml#_grDFQ5C0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hr7TtJC0Ee6NN6OCOYPpJA" defaultValue="new JTextArea()" name="taDisplay">
+      <modelElement href="microMVC.uml#_grejFJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hr7TtZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grfKIZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hr7TtpC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hr7Tt5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hr7TuJC0Ee6NN6OCOYPpJA" name="JTextArea">
+        <modelElement href="microMVC.uml#_grETYJC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hr7TuZC0Ee6NN6OCOYPpJA" comments="_hrywlJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hrzXoJC0Ee6NN6OCOYPpJA" name="init">
+      <modelElement href="microMVC.uml#_gnrBIJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr7TupC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr7Tu5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hr7TvJC0Ee6NN6OCOYPpJA" comments="_hrz-sJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hrz-sZC0Ee6NN6OCOYPpJA" name="start">
+      <modelElement href="microMVC.uml#_gnrBIZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr7TvZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr7TvpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hr7Tv5C0Ee6NN6OCOYPpJA" comments="_hrz-spC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hrz-s5C0Ee6NN6OCOYPpJA" name="displayMsg">
+      <modelElement href="microMVC.uml#_gnroMJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr7TwJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr7TwZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hr7TwpC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gnroMZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hr7Tw5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hr7TxJC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hr7TxZC0Ee6NN6OCOYPpJA" comments="_hr0lwJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hr0lwZC0Ee6NN6OCOYPpJA" name="MicroView">
+      <modelElement href="microMVC.uml#_grFhgJC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hr7TxpC0Ee6NN6OCOYPpJA" keyword="create"/>
+      <visibility xmi:id="_hr7Tx5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr7TyJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hr7TyZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grGIkpC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hr7TypC0Ee6NN6OCOYPpJA" name="MicroView">
+          <modelElement href="microMVC.uml#_gnpzBJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hr7Ty5C0Ee6NN6OCOYPpJA" name="v2madpt">
+        <modelElement href="microMVC.uml#_grFhgZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hr7TzJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hr7TzZC0Ee6NN6OCOYPpJA" name="IMicroView2ModelAdapter">
+          <modelElement href="microMVC.uml#_gnpL8JC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hr7TzpC0Ee6NN6OCOYPpJA" comments="_hr0lwpC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hr0lw5C0Ee6NN6OCOYPpJA" name="addImage">
+      <modelElement href="microMVC.uml#_grVZIJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hr7Tz5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hr7T0JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hr7T0ZC0Ee6NN6OCOYPpJA" name="componentSupplier">
+        <modelElement href="microMVC.uml#_grVZIZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hr7T0pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hr7T05C0Ee6NN6OCOYPpJA" name="Supplier">
+          <modelElement href="microMVC.uml#_gqz0sZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hsxoAJC0Ee6NN6OCOYPpJA" comments="_hsfUIJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hsqTQJC0Ee6NN6OCOYPpJA" name="GameInitCmd" associationsOut="_hsNnUJC0Ee6NN6OCOYPpJA _hsxA8JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnSmoJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hsxoAZC0Ee6NN6OCOYPpJA" position="712.0,315.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hsxoApC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hsxoA5C0Ee6NN6OCOYPpJA" defaultValue="2680688587385183663L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="microMVC.uml#_grX1YJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hsxoBJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hsxoBZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hsxoBpC0Ee6NN6OCOYPpJA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hsxoB5C0Ee6NN6OCOYPpJA" name="gameMicroModel">
+      <modelElement href="microMVC.uml#_grX1YpC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hsxoCJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grYccJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hsxoCZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hsxoCpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hsxoC5C0Ee6NN6OCOYPpJA" name="MicroModel">
+        <modelElement href="microMVC.uml#_gnn90JC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hsxoDJC0Ee6NN6OCOYPpJA" name="gameMicroView">
+      <modelElement href="microMVC.uml#_grYccZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hsxoDZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grYcdJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hsxoDpC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hsxoD5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hsxoEJC0Ee6NN6OCOYPpJA" name="MicroView">
+        <modelElement href="microMVC.uml#_gnpzBJC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hsxoEZC0Ee6NN6OCOYPpJA" name="rmiURL">
+      <modelElement href="microMVC.uml#_grYcdZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hsxoEpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grYcdpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hsxoE5C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_hsxoFJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hsxoFZC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hsxoFpC0Ee6NN6OCOYPpJA" comments="_hsq6VJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hsvLwJC0Ee6NN6OCOYPpJA" name="GameInitCmd">
+      <modelElement href="microMVC.uml#_gnUb0ZC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hsxoF5C0Ee6NN6OCOYPpJA" keyword="create"/>
+      <visibility xmi:id="_hsxoGJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hsxoGZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hsxoGpC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gnVC4pC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hsxoG5C0Ee6NN6OCOYPpJA" name="GameInitCmd">
+          <modelElement href="microMVC.uml#_gnSmoJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hsxoHJC0Ee6NN6OCOYPpJA" name="rmiURL">
+        <modelElement href="microMVC.uml#_gnUb0pC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hsxoHZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hsxoHpC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hsxoH5C0Ee6NN6OCOYPpJA" name="apply">
+      <modelElement href="microMVC.uml#_grKaAJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hsxoIJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grLBEZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hsxoIZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hsxoIpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hsxoI5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grLBEJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hsxoJJC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hsxoJZC0Ee6NN6OCOYPpJA" name="index">
+        <modelElement href="microMVC.uml#_grKaAZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hsxoJpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hsxoJ5C0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hsxoKJC0Ee6NN6OCOYPpJA" name="host">
+        <modelElement href="microMVC.uml#_grKaApC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hsxoKZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hsxoKpC0Ee6NN6OCOYPpJA" name="RoomDataPacket">
+          <modelElement href="microMVC.uml#_gq1C0ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hsxoK5C0Ee6NN6OCOYPpJA" name="nu">
+        <modelElement href="microMVC.uml#_grKaA5C0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hsxoLJC0Ee6NN6OCOYPpJA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_hsxoLZC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_htXd4JC0Ee6NN6OCOYPpJA" comments="_htA4kJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_htOT8JC0Ee6NN6OCOYPpJA" name="GuessGameCmd" associationsOut="_htW20JC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnWRAJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_htXd4ZC0Ee6NN6OCOYPpJA" position="13.0,998.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_htXd4pC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_htXd45C0Ee6NN6OCOYPpJA" defaultValue="2730774503314369773L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="microMVC.uml#_grZDgJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_htXd5JC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_htXd5ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_htXd5pC0Ee6NN6OCOYPpJA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_htXd55C0Ee6NN6OCOYPpJA" defaultValue="Randomizer.Singleton" name="rand">
+      <modelElement href="microMVC.uml#_grZDgpC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_htXd6JC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grZDhJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_htXd6ZC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_htXd6pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_htXd65C0Ee6NN6OCOYPpJA" name="IRandomizer">
+        <modelElement href="microMVC.uml#_gq4tMJC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_htXd7JC0Ee6NN6OCOYPpJA" name="correct">
+      <modelElement href="microMVC.uml#_grZDhZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_htXd7ZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grZDhpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_htXd7pC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_htXd75C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_htXd8JC0Ee6NN6OCOYPpJA" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_htXd8ZC0Ee6NN6OCOYPpJA" defaultValue="1" name="count">
+      <modelElement href="microMVC.uml#_grZqkJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_htXd8pC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grZqkpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_htXd85C0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_htXd9JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_htXd9ZC0Ee6NN6OCOYPpJA" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_htXd9pC0Ee6NN6OCOYPpJA" comments="_htVosJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_htWPwJC0Ee6NN6OCOYPpJA" name="GuessGameCmd">
+      <modelElement href="microMVC.uml#_gnW4EJC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_htXd95C0Ee6NN6OCOYPpJA" keyword="create"/>
+      <visibility xmi:id="_htXd-JC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_htXd-ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_htXd-pC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gnW4E5C0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_htXd-5C0Ee6NN6OCOYPpJA" name="GuessGameCmd">
+          <modelElement href="microMVC.uml#_gnWRAJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_htXd_JC0Ee6NN6OCOYPpJA" name="apply">
+      <modelElement href="microMVC.uml#_grM2QJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_htXd_ZC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grM2RZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_htXd_pC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_grNdU5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_htXd_5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_htXeAJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_htXeAZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grM2RJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_htXeApC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_htXeA5C0Ee6NN6OCOYPpJA" name="index">
+        <modelElement href="microMVC.uml#_grM2QZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_htXeBJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_htXeBZC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_htXeBpC0Ee6NN6OCOYPpJA" name="host">
+        <modelElement href="microMVC.uml#_grM2QpC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_htXeB5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_htXeCJC0Ee6NN6OCOYPpJA" name="RoomDataPacket">
+          <modelElement href="microMVC.uml#_gq1C0ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_htXeCZC0Ee6NN6OCOYPpJA" name="params">
+        <modelElement href="microMVC.uml#_grM2Q5C0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_htXeCpC0Ee6NN6OCOYPpJA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_htXeC5C0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_ht_I8JC0Ee6NN6OCOYPpJA" comments="_htn8kJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_ht1X8JC0Ee6NN6OCOYPpJA" name="GuessResponseCmd">
+    <modelElement href="microMVC.uml#_gnYGMJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_ht_I8ZC0Ee6NN6OCOYPpJA" position="650.0,1231.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_ht_I8pC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_ht_I85C0Ee6NN6OCOYPpJA" defaultValue="-6776965467076935364L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="microMVC.uml#_grZqk5C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_ht_I9JC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_ht_I9ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_ht_I9pC0Ee6NN6OCOYPpJA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_ht_I95C0Ee6NN6OCOYPpJA" name="apply">
+      <modelElement href="microMVC.uml#_grOrcJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_ht_I-JC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grPSgZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ht_I-ZC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_grP5kZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_ht_wAJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_ht_wAZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ht_wApC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grPSgJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_ht_wA5C0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ht_wBJC0Ee6NN6OCOYPpJA" name="index">
+        <modelElement href="microMVC.uml#_grOrcZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_ht_wBZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_ht_wBpC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ht_wB5C0Ee6NN6OCOYPpJA" name="host">
+        <modelElement href="microMVC.uml#_grOrcpC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_ht_wCJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_ht_wCZC0Ee6NN6OCOYPpJA" name="RoomDataPacket">
+          <modelElement href="microMVC.uml#_gq1C0ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ht_wCpC0Ee6NN6OCOYPpJA" name="params">
+        <modelElement href="microMVC.uml#_grOrc5C0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_ht_wC5C0Ee6NN6OCOYPpJA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_ht_wDJC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hum0AJC0Ee6NN6OCOYPpJA" comments="_huOZgJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hucb8JC0Ee6NN6OCOYPpJA" name="IBombGameMessage">
+    <modelElement href="microMVC.uml#_gnZUUJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hum0AZC0Ee6NN6OCOYPpJA" position="966.0,995.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hum0ApC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hum0A5C0Ee6NN6OCOYPpJA" name="msg">
+      <modelElement href="microMVC.uml#_gnbJgJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hum0BJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hum0BZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hum0BpC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hum0B5C0Ee6NN6OCOYPpJA" name="GetID" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnZ7YJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hum0CJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnZ7YZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hum0CZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hum0CpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hum0C5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grQgoZC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hum0DJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hum0DZC0Ee6NN6OCOYPpJA" name="getID">
+      <modelElement href="microMVC.uml#_gnZ7YpC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hum0DpC0Ee6NN6OCOYPpJA" keyword="defender"/>
+      <stereotypes xmi:id="_hum0D5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnaicpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hum0EJC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_gnaic5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hum0EZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hum0EpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hum0E5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grQgopC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hum0FJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hum0FZC0Ee6NN6OCOYPpJA" name="make" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnbJgZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hum0FpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnbwkJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hum0F5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hum0GJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hum0GZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gq7wg5C0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hum0GpC0Ee6NN6OCOYPpJA" name="IBombGameMessage">
+          <modelElement href="microMVC.uml#_gnZUUJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hum0G5C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gnbJgpC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hum0HJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hum0HZC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hvTXkJC0Ee6NN6OCOYPpJA" comments="_hu4g0JC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hvHxYJC0Ee6NN6OCOYPpJA" name="IGameInitMsg">
+    <modelElement href="microMVC.uml#_gncXoJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hvTXkZC0Ee6NN6OCOYPpJA" position="11.0,1229.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hvTXkpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hvTXk5C0Ee6NN6OCOYPpJA" name="msg">
+      <modelElement href="microMVC.uml#_gndlwpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hvTXlJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hvTXlZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hvTXlpC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hvTXl5C0Ee6NN6OCOYPpJA" name="GetID" staticOperation="true">
+      <modelElement href="microMVC.uml#_gncXoZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hvTXmJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnc-sJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hvTXmZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hvTXmpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hvTXm5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grQgpJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hvTXnJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hvTXnZC0Ee6NN6OCOYPpJA" name="getID">
+      <modelElement href="microMVC.uml#_gnc-sZC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hvTXnpC0Ee6NN6OCOYPpJA" keyword="defender"/>
+      <stereotypes xmi:id="_hvTXn5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnc-tJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hvTXoJC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_gndlwJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hvTXoZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hvTXopC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hvTXo5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHsJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hvTXpJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hvTXpZC0Ee6NN6OCOYPpJA" name="make" staticOperation="true">
+      <modelElement href="microMVC.uml#_gndlw5C0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hvTXppC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gneM0JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hvTXp5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hvTXqJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hvTXqZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gq8XkJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hvTXqpC0Ee6NN6OCOYPpJA" name="IGameInitMsg">
+          <modelElement href="microMVC.uml#_gncXoJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hvTXq5C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gndlxJC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hvTXrJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hvTXrZC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hwC-cJC0Ee6NN6OCOYPpJA" comments="_hvlEYJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hv2xMJC0Ee6NN6OCOYPpJA" name="IGuessMessage">
+    <modelElement href="microMVC.uml#_gnez4JC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hwC-cZC0Ee6NN6OCOYPpJA" position="332.0,1229.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hwC-cpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hwC-c5C0Ee6NN6OCOYPpJA" name="msg">
+      <modelElement href="microMVC.uml#_gngCAJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hwC-dJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwC-dZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hwC-dpC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hwC-d5C0Ee6NN6OCOYPpJA" name="GetID" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnez4ZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hwC-eJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnfa8JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwC-eZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwC-epC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwC-e5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHspC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwC-fJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hwC-fZC0Ee6NN6OCOYPpJA" name="getID">
+      <modelElement href="microMVC.uml#_gnfa8ZC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hwC-fpC0Ee6NN6OCOYPpJA" keyword="defender"/>
+      <stereotypes xmi:id="_hwC-f5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnfa9JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hwC-gJC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_gnfa9ZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwC-gZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwC-gpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwC-g5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHs5C0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwC-hJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hwC-hZC0Ee6NN6OCOYPpJA" name="make" staticOperation="true">
+      <modelElement href="microMVC.uml#_gngCAZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hwC-hpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gngCA5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwC-h5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwC-iJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwC-iZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gq8-oJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwC-ipC0Ee6NN6OCOYPpJA" name="IGuessMessage">
+          <modelElement href="microMVC.uml#_gnez4JC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hwC-i5C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gngCApC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hwC-jJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hwC-jZC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hwx-QJC0Ee6NN6OCOYPpJA" comments="_hwVSUJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hwlJ8JC0Ee6NN6OCOYPpJA" name="IGuessResponseMessage">
+    <modelElement href="microMVC.uml#_gngpEJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hwx-QZC0Ee6NN6OCOYPpJA" position="593.0,995.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hwx-QpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hwx-Q5C0Ee6NN6OCOYPpJA" name="msg">
+      <modelElement href="microMVC.uml#_gnieQJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hwx-RJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwx-RZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hwx-RpC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hwx-R5C0Ee6NN6OCOYPpJA" name="GetID" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnhQIJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hwx-SJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnhQIZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwx-SZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwx-SpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwx-S5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHtZC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwx-TJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hwx-TZC0Ee6NN6OCOYPpJA" name="getID">
+      <modelElement href="microMVC.uml#_gnhQIpC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hwx-TpC0Ee6NN6OCOYPpJA" keyword="defender"/>
+      <stereotypes xmi:id="_hwx-T5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnh3MZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hwx-UJC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_gnh3MpC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwx-UZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwx-UpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwx-U5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHtpC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwx-VJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hwx-VZC0Ee6NN6OCOYPpJA" name="make" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnieQZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hwx-VpC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnieQ5C0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hwx-V5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hwx-WJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hwx-WZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gq8-oZC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hwx-WpC0Ee6NN6OCOYPpJA" name="IGuessResponseMessage">
+          <modelElement href="microMVC.uml#_gngpEJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hwx-W5C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gnieQpC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hwx-XJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hwx-XZC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hxl2kJC0Ee6NN6OCOYPpJA" comments="_hxGHUJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hxX0IJC0Ee6NN6OCOYPpJA" name="IImageMessage">
+    <modelElement href="microMVC.uml#_gnjFUJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hxl2kZC0Ee6NN6OCOYPpJA" position="1319.0,995.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hxl2kpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_hxl2k5C0Ee6NN6OCOYPpJA" name="msg">
+      <modelElement href="microMVC.uml#_gnkTc5C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hxl2lJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hxl2lZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_hxl2lpC0Ee6NN6OCOYPpJA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hxl2l5C0Ee6NN6OCOYPpJA" name="GetID" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnjsYJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hxl2mJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnjsYZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hxl2mZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hxl2mpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hxl2m5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHuJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hxl2nJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hxl2nZC0Ee6NN6OCOYPpJA" name="getID">
+      <modelElement href="microMVC.uml#_gnjsYpC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_hxl2npC0Ee6NN6OCOYPpJA" keyword="defender"/>
+      <stereotypes xmi:id="_hxl2n5C0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnkTcJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hxl2oJC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_gnkTcZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hxl2oZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hxl2opC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hxl2o5C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grRHuZC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hxl2pJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hxl2pZC0Ee6NN6OCOYPpJA" name="make" staticOperation="true">
+      <modelElement href="microMVC.uml#_gnkTdJC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_hxl2ppC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnk6gJC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_hxl2p5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hxl2qJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hxl2qZC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_gq9lsJC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hxl2qpC0Ee6NN6OCOYPpJA" name="IImageMessage">
+          <modelElement href="microMVC.uml#_gnjFUJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hxl2q5C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gnkTdZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hxl2rJC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hxl2rZC0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hynKQJC0Ee6NN6OCOYPpJA" comments="_hyE-wJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hyX5sJC0Ee6NN6OCOYPpJA" name="IMicro2MiniAdapter">
+    <modelElement href="microMVC.uml#_gnlhkJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hynKQZC0Ee6NN6OCOYPpJA" position="596.0,1430.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hynKQpC0Ee6NN6OCOYPpJA" label="+"/>
+    <operations xmi:id="_hynKQ5C0Ee6NN6OCOYPpJA" name="sendMsg">
+      <modelElement href="microMVC.uml#_grSV0JC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_hynKRJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_hynKRZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hynKRpC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grSV0pC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_hynKR5C0Ee6NN6OCOYPpJA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hynKSJC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_grSV0ZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_hynKSZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_hynKSpC0Ee6NN6OCOYPpJA" name="IRoomMessage">
+          <modelElement href="microMVC.uml#_gq7JcJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_hzabgJC0Ee6NN6OCOYPpJA" comments="_hy6FMJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_hzMZEJC0Ee6NN6OCOYPpJA" name="IMicroController2ModelAdapter">
+    <modelElement href="microMVC.uml#_gnmIoJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_hzabgZC0Ee6NN6OCOYPpJA" position="931.0,1431.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_hzabgpC0Ee6NN6OCOYPpJA" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_h0q_wJC0Ee6NN6OCOYPpJA" comments="_hzsvYJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h0YE0JC0Ee6NN6OCOYPpJA" name="IMicroController2ViewAdapter">
+    <modelElement href="microMVC.uml#_gnmIoZC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_h0q_wZC0Ee6NN6OCOYPpJA" position="1207.0,1431.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_h0q_wpC0Ee6NN6OCOYPpJA" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_h1kXoJC0Ee6NN6OCOYPpJA" comments="_h096sJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h1TR4JC0Ee6NN6OCOYPpJA" name="IMicroModel2ViewAdapter" associationsIn="_h1jJgJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnmIopC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_h1kXoZC0Ee6NN6OCOYPpJA" position="92.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_h1kXopC0Ee6NN6OCOYPpJA" label="+"/>
+    <operations xmi:id="_h1kXo5C0Ee6NN6OCOYPpJA" name="sendGuessMsg">
+      <modelElement href="microMVC.uml#_gq-MwJC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h1kXpJC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h1kXpZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_h1kXppC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gq-MwZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h1kXp5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h1kXqJC0Ee6NN6OCOYPpJA" name="IGuessMessage">
+          <modelElement href="microMVC.uml#_gnez4JC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_h1kXqZC0Ee6NN6OCOYPpJA" name="sendImageMsg">
+      <modelElement href="microMVC.uml#_gq-MwpC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h1kXqpC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h1kXq5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_h1kXrJC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_gq-z0JC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h1kXrZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h1kXrpC0Ee6NN6OCOYPpJA" name="IImageMessage">
+          <modelElement href="microMVC.uml#_gnjFUJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_h2mSYJC0Ee6NN6OCOYPpJA" comments="_h1688JC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h2lEQJC0Ee6NN6OCOYPpJA" name="ImageCmd">
+    <modelElement href="microMVC.uml#_gnmvsJC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_h2mSYZC0Ee6NN6OCOYPpJA" position="13.0,1426.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_h2mSYpC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_h2mSY5C0Ee6NN6OCOYPpJA" defaultValue="-1030098869946143557L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="microMVC.uml#_grZqlZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h2mSZJC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_h2mSZZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_h2mSZpC0Ee6NN6OCOYPpJA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_h2mSZ5C0Ee6NN6OCOYPpJA" name="apply">
+      <modelElement href="microMVC.uml#_grS84JC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_h2mSaJC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_grS85ZC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_h2mSaZC0Ee6NN6OCOYPpJA" name="Annotations">
+        <modelElement href="microMVC.uml#_grTj8pC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_h2mSapC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h2mSa5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_h2mSbJC0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grS85JC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_h2mSbZC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_h2mSbpC0Ee6NN6OCOYPpJA" name="index">
+        <modelElement href="microMVC.uml#_grS84ZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h2mSb5C0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h2mScJC0Ee6NN6OCOYPpJA" name="IDataPacketID">
+          <modelElement href="microMVC.uml#_gq1p4ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_h2mScZC0Ee6NN6OCOYPpJA" name="host">
+        <modelElement href="microMVC.uml#_grS84pC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h2mScpC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h2mSc5C0Ee6NN6OCOYPpJA" name="RoomDataPacket">
+          <modelElement href="microMVC.uml#_gq1C0ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_h2mSdJC0Ee6NN6OCOYPpJA" name="params">
+        <modelElement href="microMVC.uml#_grS845C0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h2mSdZC0Ee6NN6OCOYPpJA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_h2mSdpC0Ee6NN6OCOYPpJA" name="Void">
+          <modelElement href="microMVC.uml#_grJy8ZC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_h3lw4JC0Ee6NN6OCOYPpJA" comments="_h29ewJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h3itkJC0Ee6NN6OCOYPpJA" name="MicroModel" associationsIn="_hsxA8JC0Ee6NN6OCOYPpJA" associationsOut="_h1jJgJC0Ee6NN6OCOYPpJA">
+    <modelElement href="microMVC.uml#_gnn90JC0Ee6NN6OCOYPpJA"/>
+    <visualProperties xmi:id="_h3lw4ZC0Ee6NN6OCOYPpJA" position="16.0,318.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_h3lw4pC0Ee6NN6OCOYPpJA" label="+"/>
+    <attributes xmi:id="_h3lw45C0Ee6NN6OCOYPpJA" name="m2vadpt">
+      <modelElement href="microMVC.uml#_graRoZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h3lw5JC0Ee6NN6OCOYPpJA" label="-"/>
+      <cardinality xmi:id="_h3lw5ZC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <type xmi:id="_h3lw5pC0Ee6NN6OCOYPpJA" name="IMicroModel2ViewAdapter">
+        <modelElement href="microMVC.uml#_gnmIopC0Ee6NN6OCOYPpJA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_h3lw55C0Ee6NN6OCOYPpJA" name="start">
+      <modelElement href="microMVC.uml#_gnn90ZC0Ee6NN6OCOYPpJA"/>
+      <stereotypes xmi:id="_h3lw6JC0Ee6NN6OCOYPpJA" name="LegacyStyledElement">
+        <modelElement href="microMVC.uml#_gnok4JC0Ee6NN6OCOYPpJA"/>
+      </stereotypes>
+      <visibility xmi:id="_h3lw6ZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h3lw6pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_h3lw65C0Ee6NN6OCOYPpJA" comments="_h3jUoJC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h3kiwJC0Ee6NN6OCOYPpJA" name="MicroModel">
+      <modelElement href="microMVC.uml#_grAB8JC0Ee6NN6OCOYPpJA"/>
+      <keywords xmi:id="_h3lw7JC0Ee6NN6OCOYPpJA" keyword="create"/>
+      <visibility xmi:id="_h3lw7ZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h3lw7pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_h3lw75C0Ee6NN6OCOYPpJA">
+        <modelElement href="microMVC.uml#_grApApC0Ee6NN6OCOYPpJA"/>
+        <type xmi:id="_h3lw8JC0Ee6NN6OCOYPpJA" name="MicroModel">
+          <modelElement href="microMVC.uml#_gnn90JC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_h3lw8ZC0Ee6NN6OCOYPpJA" name="m2vadpt">
+        <modelElement href="microMVC.uml#_grAB8ZC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h3lw8pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h3lw85C0Ee6NN6OCOYPpJA" name="IMicroModel2ViewAdapter">
+          <modelElement href="microMVC.uml#_gnmIopC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_h3lw9JC0Ee6NN6OCOYPpJA" comments="_h3kiwZC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h3kiwpC0Ee6NN6OCOYPpJA" name="sendGuessMsg">
+      <modelElement href="microMVC.uml#_grApA5C0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h3lw9ZC0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h3lw9pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_h3lw95C0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_grApBJC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h3lw-JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h3lw-ZC0Ee6NN6OCOYPpJA" name="IGuessMessage">
+          <modelElement href="microMVC.uml#_gnez4JC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_h3lw-pC0Ee6NN6OCOYPpJA" comments="_h3lJ0JC0Ee6NN6OCOYPpJA" targetConnectionVisual="_h3lJ0ZC0Ee6NN6OCOYPpJA" name="sendImageMsg">
+      <modelElement href="microMVC.uml#_grApBZC0Ee6NN6OCOYPpJA"/>
+      <visibility xmi:id="_h3lw-5C0Ee6NN6OCOYPpJA" label="+"/>
+      <cardinality xmi:id="_h3lw_JC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_h3lw_ZC0Ee6NN6OCOYPpJA" name="msg">
+        <modelElement href="microMVC.uml#_grApBpC0Ee6NN6OCOYPpJA"/>
+        <cardinality xmi:id="_h3lw_pC0Ee6NN6OCOYPpJA" label="1" max="1" min="1"/>
+        <type xmi:id="_h3lw_5C0Ee6NN6OCOYPpJA" name="IImageMessage">
+          <modelElement href="microMVC.uml#_gnjFUJC0Ee6NN6OCOYPpJA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
